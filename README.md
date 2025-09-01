@@ -1,4 +1,5 @@
 ### ✉️ Contact Me 
+<a href="mailto:jsk41400@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://github.com/SEOKKYEON"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://everyonelove.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 
