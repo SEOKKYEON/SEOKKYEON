@@ -1,4 +1,3 @@
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEOKKYEON&repo=Fintech_Service_2nd)
 
 ### ✉️ Contact Me 
 <a href="mailto:jsk41400@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
