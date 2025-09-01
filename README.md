@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=_ffffff&height=300&section=header&text=Jeong%20Seok%20Hyeon&fontSize=80&fontColor=#8C65A8)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Jeong%20Seok%20Hyeon&fontSize=80&fontColor=#8C65A8)
